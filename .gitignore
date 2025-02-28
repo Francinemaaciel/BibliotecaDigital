@@ -1,0 +1,12 @@
+# Ignorar arquivos do Visual Studio
+.vs/
+bin/
+obj/
+*.user
+*.suo
+
+# Ignorar arquivos de pacotes NuGet
+packages/
+*.nupkg
+
+
