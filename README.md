@@ -19,7 +19,7 @@ Este é um projeto de uma **Biblioteca Digital** desenvolvido com **Windows Form
 
 ## 📝 Melhorias Futuras
 
--I mplementar empréstimos e devoluções de livros
+- Implementar empréstimos e devoluções de livros
 - Adicionar relatórios (PDF ou exportação CSV)
 - Melhorar a interface gráfica com ícones e temas
 - Validação mais robusta dos formulários
